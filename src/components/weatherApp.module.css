@@ -1,0 +1,12 @@
+.weatherContainer{
+    width: 500px;
+    height: 500px;
+    margin: 150px auto;    
+}
+.title{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    background-color: #1D1D7A;
+    border-radius: 5px;
+}
